@@ -1,0 +1,5 @@
+raw_data/**/*
+!raw_data/.gitkeep
+database/*.db
+*.py[cod]
+.DS_Store
